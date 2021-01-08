@@ -7,7 +7,7 @@ const client = redis.createClient({
    port: 6379 
 });
 
-const app = express;
+const app = express();
 
 // 숫자는 0 부터 시작합니다.
 client.set("number", 0);

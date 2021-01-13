@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          리액트 배우기
+          리액트 배우기!!
           {/* docker run -it -p 3000:3000 -v /usr/src/app/node_modules -v $(pwd):/usr/src/app syglee7/docker-react-app */}
         </a>
       </header>
